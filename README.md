@@ -7,7 +7,7 @@ In this example, we did a KNN model setup, estimation, and model tuning.<br>
 
 What are the KNN Steps?<br>
 
-KNN Steps:
+KNN Steps:<br>
 1-Determining the number of neighbors<br>
 2-Calculation of the distance between the unknown point and all other points<br>
 3-Sort the distances and select the closest k observations according to the determined k number<br>
